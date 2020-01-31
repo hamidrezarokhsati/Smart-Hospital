@@ -2,23 +2,23 @@ The one stop solution for hospital managements. Easy and user friendly navigatio
 
 Smart Hospital Management System Script Features:
 
-Built with CodeIgniter framework
+- Built with CodeIgniter framework
 
-Ability to manage hospital work calendar
+- Ability to manage hospital work calendar
 
-Advanced search in various modules to find patients
+- Advanced search in various modules to find patients
 
-Online payment system support
+- Online payment system support
 
-Has different themes for website and admin panel
+- Has different themes for website and admin panel
 
-Employee attendance system
+- Employee attendance system
 
-Ability to manage radiology and pathology reports
+- Ability to manage radiology and pathology reports
 
-Ability to check beds status with one click
+- Ability to check beds status with one click
 
-Compatible with all types of browsers
+- Compatible with all types of browsers
 
 ...
 
