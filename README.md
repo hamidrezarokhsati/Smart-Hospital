@@ -20,7 +20,7 @@ Smart Hospital Management System Script Features:
 
 - Compatible with all types of browsers
 
-...
+- ... 
 
 Demo:
 https://smart-hospital.in/demo.html
